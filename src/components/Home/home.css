@@ -1,5 +1,9 @@
 h5#staticBackdropLabel {
+<<<<<<< HEAD
     margin-left: 184px;
+=======
+    margin-left: 197px;
+>>>>>>> 7067d31e60b0f4cfefff54a8fcc5a84fcc878bc3
 }
 p.text-start.text-primary:hover {
 
@@ -14,6 +18,10 @@ i.fa-solid.fa-plus.text-primary.mt-2 {
 }
 p.zero {
     margin-left: 318px;
+<<<<<<< HEAD
+=======
+    margin-top: -24px;
+>>>>>>> 7067d31e60b0f4cfefff54a8fcc5a84fcc878bc3
     position: absolute;
 }
 .tabs{
@@ -38,4 +46,31 @@ p.zero {
 }
 .tabs li.active::after{
     width: 104%;
+<<<<<<< HEAD
 }
+=======
+}
+.text-block.position-absolute {
+    margin-top: -298px;
+    margin-left: 77px;
+}
+p.nightt {
+    margin-top: -21px;
+}
+button.Explorr.position-absolute {
+    margin-top: -202px;
+    margin-left: 479px;
+}
+.justify-content-between.position-absolute {
+    margin-top: -54px;
+    margin-left: 25px;
+}
+
+ul li{
+    padding: 8px;
+    list-style: none;
+    margin-left: 5px;
+    cursor: pointer;
+    font-size: 18px;
+}
+>>>>>>> 7067d31e60b0f4cfefff54a8fcc5a84fcc878bc3

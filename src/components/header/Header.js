@@ -171,6 +171,10 @@ const Header = () => {
                                 <p className='pt-3 px-2'>Agree To <a href='#'><span className='text-danger'>Term & condition </span></a> </p>
                             </div>
                             <button className='w-100 p-2 border-0 text-white rounded' onClick={Signupdata} style={{ backgroundColor: "#54BAB9" }} >Sign Up</button>
+<<<<<<< HEAD
+=======
+                          
+>>>>>>> 7067d31e60b0f4cfefff54a8fcc5a84fcc878bc3
                             <p className='mt-3'>or with Continue</p>
                             <button className='w-100 '>Continue with Facebook</button>
                             <button className='w-100 mt-2'>Continue with Google</button>
